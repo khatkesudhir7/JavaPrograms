@@ -4,19 +4,43 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3410c8cd-314f-44c8-9ebb-5faa185b42e2" name="Changes" comment="07072024">
-      <change afterPath="$PROJECT_DIR$/src/Prog_07072024/Lab0012.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prog_07072024/Lab0013.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prog_07072024/Lab003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prog_07072024/Lab004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prog_07072024/Lab005.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prog_07072024/Lab006.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prog_07072024/Lab007.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prog_07072024/Lab008.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prog_07072024/Lab009.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prog_07072024/Lab010.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prog_07072024/Lab011.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prog_07072024/LabCal014.java" afterDir="false" />
+    <list default="true" id="3410c8cd-314f-44c8-9ebb-5faa185b42e2" name="Changes" comment="13072024">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_13072024/Calprog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_13072024/LAb016.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_13072024/Lab015.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_13072024/Lab017.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_13072024/Lab018.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_13072024/Lab019.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_13072024/Lab020.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_13072024/Lab021.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_13072024/Lab022.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_13072024/Lab023.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_14072024/LAb041.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_14072024/Lab024.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_14072024/Lab025.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_14072024/Lab026.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_14072024/Lab027.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_14072024/Lab028.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_14072024/Lab029.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_14072024/Lab030.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_14072024/Lab031.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_14072024/Lab032.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_14072024/Lab033.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_14072024/Lab034.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_14072024/Lab035.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_14072024/Lab037.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_14072024/Lab038.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_14072024/Lab039.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_14072024/Lab040.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_14072024/Lab042.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_14072024/Lab043.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_14072024/Lab044.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_14072024/Lab045.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_14072024/Lab046.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_14072024/Lab047.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_14072024/Lab048.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_14072024/lab036.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,22 +81,67 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Lab001.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/khatk/IdeaProjects/JavaPrograms/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Lab001.executor": "Run",
+    "Application.Lab023.executor": "Run",
+    "Application.Lab025.executor": "Run",
+    "Application.Lab027.executor": "Run",
+    "Application.Lab035.executor": "Run",
+    "Application.LabCal014.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/khatk/IdeaProjects/JavaPrograms/src/Main.java"
   }
-}</component>
-  <component name="RunManager" selected="Application.LabCal014">
-    <configuration name="Lab001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Prog_07072024.Lab001" />
+}]]></component>
+  <component name="RunManager" selected="Application.Lab035">
+    <configuration name="Lab023" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Prog_13072024.Lab023" />
       <module name="JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Prog_07072024.*" />
+          <option name="PATTERN" value="Prog_13072024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab025" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Prog_14072024.Lab025" />
+      <module name="JavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Prog_14072024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab027" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Prog_14072024.Lab027" />
+      <module name="JavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Prog_14072024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab035" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Prog_14072024.Lab035" />
+      <module name="JavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Prog_14072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,8 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab035" />
+        <item itemvalue="Application.Lab027" />
+        <item itemvalue="Application.Lab025" />
+        <item itemvalue="Application.Lab023" />
         <item itemvalue="Application.LabCal014" />
-        <item itemvalue="Application.Lab001" />
       </list>
     </recent_temporary>
   </component>
@@ -117,12 +189,21 @@
       <option name="project" value="LOCAL" />
       <updated>1720343497769</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="13072024">
+      <option name="closed" value="true" />
+      <created>1720850425575</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1720850425575</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="07072024" />
-    <option name="LAST_COMMIT_MESSAGE" value="07072024" />
+    <MESSAGE value="13072024" />
+    <option name="LAST_COMMIT_MESSAGE" value="13072024" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
