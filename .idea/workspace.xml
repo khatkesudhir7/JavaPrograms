@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3410c8cd-314f-44c8-9ebb-5faa185b42e2" name="Changes" comment="20072024">
-      <change afterPath="$PROJECT_DIR$/src/HomeWork/FizzBuzzTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork/LeapYearProgram2024.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork/TriangleClassifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0073.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Prog_14072024/Lab040.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Prog_14072024/Lab040.java" afterDir="false" />
-    </list>
+    <list default="true" id="3410c8cd-314f-44c8-9ebb-5faa185b42e2" name="Changes" comment="21072024" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -188,7 +182,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721460210686</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="21072024">
+      <option name="closed" value="true" />
+      <created>1721911615328</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1721911615328</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -196,7 +198,8 @@
     <MESSAGE value="13072024" />
     <MESSAGE value="14072024" />
     <MESSAGE value="20072024" />
-    <option name="LAST_COMMIT_MESSAGE" value="20072024" />
+    <MESSAGE value="21072024" />
+    <option name="LAST_COMMIT_MESSAGE" value="21072024" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
