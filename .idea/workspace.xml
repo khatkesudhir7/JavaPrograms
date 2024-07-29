@@ -4,7 +4,42 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3410c8cd-314f-44c8-9ebb-5faa185b42e2" name="Changes" comment="21072024" />
+    <list default="true" id="3410c8cd-314f-44c8-9ebb-5faa185b42e2" name="Changes" comment="Test">
+      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0075.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0076.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0077.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0078.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0079.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0080.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0081.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0082.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0083.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0084.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0085.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0086.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0087.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0088.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0089.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0090.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0091.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0092.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0093.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0094.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0095.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0096.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0097.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0098.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0099.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0101.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0102.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0103.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0104.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0105.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0106.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Prog_21072024/LAb0074.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0074.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,27 +79,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Lab001.executor": "Run",
-    "Application.Lab023.executor": "Run",
-    "Application.Lab025.executor": "Run",
-    "Application.Lab027.executor": "Run",
-    "Application.Lab035.executor": "Run",
-    "Application.LabCal014.executor": "Run",
-    "Application.LeapYearProgram2024.executor": "Run",
-    "Application.TriangleClassifier.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/khatk/IdeaProjects/JavaPrograms/src/Main.java",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab023.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab025.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab027.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab035.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LabCal014.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeapYearProgram2024.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TriangleClassifier.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/khatk/IdeaProjects/JavaPrograms/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.LeapYearProgram2024">
     <configuration name="Lab025" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Prog_14072024.Lab025" />
@@ -190,7 +225,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721911615328</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Test">
+      <option name="closed" value="true" />
+      <created>1722088937607</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1722088937607</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -199,7 +242,8 @@
     <MESSAGE value="14072024" />
     <MESSAGE value="20072024" />
     <MESSAGE value="21072024" />
-    <option name="LAST_COMMIT_MESSAGE" value="21072024" />
+    <MESSAGE value="Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
