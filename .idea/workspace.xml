@@ -4,41 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3410c8cd-314f-44c8-9ebb-5faa185b42e2" name="Changes" comment="Test">
-      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0075.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0076.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0077.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0078.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0079.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0080.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0081.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0082.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0083.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0084.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0085.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0086.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0087.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0088.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0089.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0090.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0091.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0092.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0093.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0094.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0095.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0096.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0097.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0098.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0099.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0100.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0101.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0102.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0103.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0104.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0105.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0106.java" afterDir="false" />
+    <list default="true" id="3410c8cd-314f-44c8-9ebb-5faa185b42e2" name="Changes" comment="21072024">
+      <change afterPath="$PROJECT_DIR$/src/Prog_27072024/Lab0107.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_27072024/Lab0108.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_27072024/Lab0109.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_27072024/Lab0110.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_27072024/Lab0111.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_27072024/Lab0112.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_27072024/Lab0113.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_27072024/Lab0114.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog_27072024/Lab0115.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Prog_21072024/LAb0074.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Prog_21072024/Lab0074.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -233,7 +209,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722088937607</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Test">
+      <option name="closed" value="true" />
+      <created>1722270981099</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1722270981099</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
